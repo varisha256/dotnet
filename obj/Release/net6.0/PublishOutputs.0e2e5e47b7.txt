@@ -1,0 +1,13 @@
+E:\Azure\dotnet\bin\Release\net6.0\publish\dotnet.exe
+E:\Azure\dotnet\bin\Release\net6.0\publish\api\host.json
+E:\Azure\dotnet\bin\Release\net6.0\publish\api\HttpTrigger1\function.json
+E:\Azure\dotnet\bin\Release\net6.0\publish\api\HttpTrigger2\function.json
+E:\Azure\dotnet\bin\Release\net6.0\publish\api\local.settings.json
+E:\Azure\dotnet\bin\Release\net6.0\publish\api\package-lock.json
+E:\Azure\dotnet\bin\Release\net6.0\publish\api\package.json
+E:\Azure\dotnet\bin\Release\net6.0\publish\appsettings.Development.json
+E:\Azure\dotnet\bin\Release\net6.0\publish\appsettings.json
+E:\Azure\dotnet\bin\Release\net6.0\publish\dotnet.dll
+E:\Azure\dotnet\bin\Release\net6.0\publish\dotnet.deps.json
+E:\Azure\dotnet\bin\Release\net6.0\publish\dotnet.runtimeconfig.json
+E:\Azure\dotnet\bin\Release\net6.0\publish\dotnet.pdb
